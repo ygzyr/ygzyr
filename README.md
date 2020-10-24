@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to New Friends For Much Codes 
 - 🥅 2020 Goals: I want to pass class with 100
-- ⚡ Fun fact: I'am İdiot
+- ⚡ Fun fact: I'am Nothing For Us 
 
 ### Spotify Playing 🎧
 
