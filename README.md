@@ -58,27 +58,4 @@ Cooming SOON
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Yağız's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ygzyr&show_icons=true&hide_border=true" />
-### Connect with me:
-
-<p align="center">
-  <a href="https://discord.com/users/730146566991642734" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/nsa2v0c39lvbgm9pyu4cfbtlw" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://www.instagram.com/ygz.codes" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/ygzyr" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-<p align="center">
-
-
-<br />
-
-
-
-<br />
-<br />
-</details>
-
-[website]: https://ygz.codes
-[instagram]: https://instagram.com/
-[discord]: https://discord.com/users/730146566991642734
+  <img align="left" alt="Yağız's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ygzyr&show_icons=true&hide_border=false" />
