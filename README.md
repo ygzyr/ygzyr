@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://count.getloli.com/get/@ygzyr?theme=gelbooru-h"/>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&style=for-the-badge)
